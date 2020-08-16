@@ -4,3 +4,4 @@ if message == ("yes"):
     print("Loading....")
 else:
     print("Closing...")
+# Twice check
